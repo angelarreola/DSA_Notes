@@ -1,6 +1,6 @@
-## What is this all about?
+## <span style="color:rgb(0, 176, 240)">What is this all about?</span>
 
-**Don't forget.** An algorithm is a set of steps or instructions for completing a task.
+**<span style="color:rgb(255, 0, 0)">Don't forget.</span>** An algorithm is a set of steps or instructions for completing a task.
 In our field an algorithm is a set of steps a program takes to finish a task.
 
 
@@ -13,11 +13,11 @@ If you're unaware that a solution exists you might try come up with one yourself
 **Part of understanding algorithms is not just knowing that an algorithm exist but understanding when to apply it.**
 
 
-## Linear Search to understand why an algorithm is useful.
+## <span style="color:rgb(0, 176, 240)">Linear Search to understand why an algorithm is useful.</span>
 
 Imagine that we need to find a person in the Facebook's database, we are searching one single person in +2.19 billion users. The speed at witch you find this person really matters. Imagine what kind of experience would it be if the search take a couple hours... maybe you will not use that app never again. From the company's perspective working on making search as fast as possible using different strategies really matters.
 
-## Algorithm
+## <span style="color:rgb(255, 192, 0)">Algorithm</span>
 
 An algorithm needs to have this 3 properties that need to be CLEARLY DEFINED:
 - Problem statement.
@@ -32,8 +32,12 @@ The algorithm should complete **in a** **finite amount of time**.
 
 Consistent results for the same set of values is how we know that the algorithm is correct.
 
+**Correctness**
+	Before we define an algorithm, we start by defining our problem. In the definition of the problem we clearly define an input and output. 
+	\
+	For any possible input the algorithm should always terminate or end, if these two are not true, then our algorithm isn't correct.
 
-
-
+**Efficiency**
+	To measure the efficiency of an algorithm, we need to calculate its Time Complexity and Space Complexity using the Big O Notation. This can give us a real and graphic way to see how the inputs and outputs are processed by the algorithm and how efficient it is.
 
 

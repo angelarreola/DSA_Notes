@@ -1,4 +1,6 @@
 {
-  "cssTheme": "Minimal",
-  "accentColor": "#384fff"
+  "cssTheme": "Atom",
+  "accentColor": "",
+  "textFontFamily": "Poppins",
+  "interfaceFontFamily": "Inter"
 }
