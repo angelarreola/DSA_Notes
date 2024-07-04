@@ -1,4 +1,4 @@
-**<span style="font-weight:bold; color:rgb(0, 176, 80)">Input:</span>** A Sorted list of values.
+**<span style="font-style:italic; font-weight:bold; color:rgb(0, 176, 80)">Input:</span>** A Sorted list of values.
 **<span style="font-weight:bold; color:rgb(255, 192, 0)">Output:</span>** The position in the list of the target value we're searching or some sort of values indicate that the target doesn't exist in the list.
 
 **<span style="font-weight:bold; color:rgb(0, 176, 240)">Steps:</span>**

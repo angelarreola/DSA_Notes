@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essentials/Introduction to Algorithms.md",
+                "file": "Algorithms/Binary Search.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "521c888b730a3246",
+            "id": "22ff3882d0f1ba9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Binary Search.md",
+                "file": "Essentials/Big O.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Binary Search.md",
+                "file": "Essentials/Big O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Binary Search.md",
+                "file": "Essentials/Big O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Binary Search.md"
+                "file": "Essentials/Big O.md"
               }
             }
           }
@@ -159,10 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "521c888b730a3246",
+  "active": "22ff3882d0f1ba9d",
   "lastOpenFiles": [
-    "Essentials/Introduction to Algorithms.md",
+    "Pasted image 20240704004303.png",
     "Algorithms/Binary Search.md",
+    "Essentials/Big O.md",
+    "Untitled.md",
+    "Essentials/Introduction to Algorithms.md",
     "Data Structures",
     "Algorithms",
     "Essentials"
