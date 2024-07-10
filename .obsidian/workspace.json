@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essentials/Big O.md",
+                "file": "Essentials/Space Complexity.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essentials/Big O.md",
+                "file": "Essentials/Space Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essentials/Big O.md",
+                "file": "Essentials/Space Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essentials/Big O.md"
+                "file": "Essentials/Space Complexity.md"
               }
             }
           }
@@ -161,9 +161,12 @@
   },
   "active": "22ff3882d0f1ba9d",
   "lastOpenFiles": [
+    "README.md",
+    "Pasted image 20240709183813.png",
+    "Essentials/Big O.md",
+    "Essentials/Space Complexity.md",
     "Pasted image 20240704004303.png",
     "Algorithms/Binary Search.md",
-    "Essentials/Big O.md",
     "Untitled.md",
     "Essentials/Introduction to Algorithms.md",
     "Data Structures",
