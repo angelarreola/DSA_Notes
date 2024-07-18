@@ -15,7 +15,7 @@ This repository is a collection of notes and resources that I have compiled whil
 ### Algorithms
 - [Binary Search](./Algorithms/Binary%20Search.md)
     - [Iterative Solution](./Code/binary_search.py)
-    - [Recursive Solution](./Code/recursive_binary_search.py)
+    - [Recursive Solution (Logarithmic Space 💀)](./Code/recursive_binary_search.py)
 
 
 ### Data Structures

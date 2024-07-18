@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Binary Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22ff3882d0f1ba9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Essentials/Space Complexity.md",
+                "file": "Data Structures/Linked List.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essentials/Space Complexity.md",
+                "file": "Data Structures/Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essentials/Space Complexity.md",
+                "file": "Data Structures/Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essentials/Space Complexity.md"
+                "file": "Data Structures/Linked List.md"
               }
             }
           }
@@ -159,15 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22ff3882d0f1ba9d",
+  "active": "bc609126773cecbe",
   "lastOpenFiles": [
+    "Data Structures/Arrays.md",
+    "Data Structures/Linked List.md",
+    "Pasted image 20240717000219.png",
+    "Pasted image 20240717000144.png",
+    "Data Structures/Definition.md",
+    "Code/arrays.py",
+    "Untitled.md",
+    "Algorithms/Binary Search.md",
     "README.md",
+    "Essentials/Space Complexity.md",
     "Pasted image 20240709183813.png",
     "Essentials/Big O.md",
-    "Essentials/Space Complexity.md",
     "Pasted image 20240704004303.png",
-    "Algorithms/Binary Search.md",
-    "Untitled.md",
     "Essentials/Introduction to Algorithms.md",
     "Data Structures",
     "Algorithms",
