@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d947407c61c5e520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Merge Sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/Linked List.md",
+                "file": "Algorithms/Merge Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures/Linked List.md",
+                "file": "Algorithms/Merge Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures/Linked List.md"
+                "file": "Algorithms/Merge Sort.md"
               }
             }
           }
@@ -146,16 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc609126773cecbe",
+  "active": "d947407c61c5e520",
   "lastOpenFiles": [
-    "Data Structures/Arrays.md",
+    "Code/merge_sort.py",
+    "Pasted image 20240924190958.png",
+    "Algorithms/Binary Search.md",
+    "Algorithms/Merge Sort.md",
     "Data Structures/Linked List.md",
+    "Code/LeetCode/88_merge_sorted_array.py",
+    "Code/LeetCode",
+    "Code/__pycache__/linked_list.cpython-312.pyc",
+    "Code/__pycache__",
+    "Code/testing.py",
+    "Code/linked_list.py",
+    "Data Structures/Arrays.md",
     "Pasted image 20240717000219.png",
     "Pasted image 20240717000144.png",
     "Data Structures/Definition.md",
     "Code/arrays.py",
-    "Untitled.md",
-    "Algorithms/Binary Search.md",
     "README.md",
     "Essentials/Space Complexity.md",
     "Pasted image 20240709183813.png",
